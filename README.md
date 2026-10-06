@@ -3630,7 +3630,7 @@ Here's an awesome list of AI agents:
 
 ### Shumi
 <div><a href="https://github.com/shumi-ai/shumi-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/shumi-ai/shumi-mcp"><img src="https://img.shields.io/github/stars/shumi-ai/shumi-mcp?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/shumi-ai">@shumi-ai</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/mayrsascha">@mayrsascha</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/713">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/713">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/shumi-ai">@shumi-ai</a></p>
 <p>🔌 MCP Servers | 💻 Terminal-Friendly</p>
 
 <p>Crypto market data for AI agents: a CLI with JSON output and an MCP server exposing prices, trends, funding rates, sentiment, narratives, market regime and pair / delta-neutral ideas. Requires a Shumi API key.</p>
